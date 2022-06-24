@@ -20,5 +20,8 @@ This IoT Serverless App would be controlling the devices at Thingspeak (IoT Clou
 # AWS Cloud API
 https://qe42wxffb4.execute-api.us-east-1.amazonaws.com/default/iotBulbControl
 
+# IoT Widget
+https://thingspeak.com/channels/1778887/widgets/485834
+
 # Questions
 For questions, do reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
